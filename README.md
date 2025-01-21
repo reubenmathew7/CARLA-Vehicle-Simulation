@@ -38,7 +38,4 @@ This simulation highlights the potential of autonomous driving systems in contro
 
 ## Credits
 
-This project was developed as part of a Coursera course on autonomous systems. I would like to express my gratitude to:
-- **Coursera instructors** for providing valuable insights into autonomous driving principles.
-- The **CARLA simulator community** for creating an open-source platform for testing autonomous vehicle algorithms.
-- My academic background in robotics, control systems, and mechatronics, which equipped me with the necessary skills to complete this project.
+This project was part of [this Coursera course](https://www.coursera.org/learn/motion-planning-self-driving-cars). This course provided me with valuable insights into the field of autonomous driving and equiped me with practical skills essential for building the future of transportation..
